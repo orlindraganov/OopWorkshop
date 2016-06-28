@@ -1,0 +1,12 @@
+C:\Users\mvesheff\Desktop\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\mvesheff\Desktop\1. Cosmetics Shop_Description\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\mvesheff\Desktop\1. Cosmetics Shop_Description - Copy\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\mvesheff\Desktop\1. Cosmetics Shop_Description - Copy\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\mvesheff\Desktop\Workshop_Cosmetics\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\mvesheff\Desktop\Workshop_Cosmetics\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\softwareacademy\Desktop\Workshop-Cosmetics\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe.config
+C:\Users\softwareacademy\Desktop\Workshop-Cosmetics\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.csprojResolveAssemblyReference.cache
+C:\Users\softwareacademy\Desktop\Workshop-Cosmetics\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.exe
+C:\Users\softwareacademy\Desktop\Workshop-Cosmetics\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\bin\Debug\Cosmetics.pdb
+C:\Users\softwareacademy\Desktop\Workshop-Cosmetics\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.exe
+C:\Users\softwareacademy\Desktop\Workshop-Cosmetics\Workshop-Cosmetics\Cosmetics-Skeleton\Cosmetics\obj\Debug\Cosmetics.pdb
